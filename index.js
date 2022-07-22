@@ -1,5 +1,5 @@
 import express from 'express';
-import {StatusCodes} from 'http-status-codes'
+import {StatusCodes} from 'http-status-codes';
 
 const app = express();
 
